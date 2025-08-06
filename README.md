@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neha-Singh-j&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <!-- image -->
+  <img src="https://komarev.com/ghpvc/?username=priyuu29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <!-- image -->
 </p>  
 <!-- Coloured Line -->
 <h3 align="center">
