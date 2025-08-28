@@ -76,9 +76,9 @@
 
 ### 🔹 Codeforces
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-nehaSingh0-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/nehaSingh0)
+[![Codeforces](https://img.shields.io/badge/Codeforces-prishiv19-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/prishiv19)
 
-![Codeforces Stats](https://cf.leed.at?id=nehaSingh0)
+![Codeforces Stats](https://cf.leed.at?id=prishiv19)
 
 <!-- Coloured Line -->
 <h3 align="center">
